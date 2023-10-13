@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello World</title>
+</head>
+<body>
+	<h1>Hello World</h>
+	<h1>Welcome to Software Implementation Class</h1>
+	<h3>by Adam Firmansyah Suhendar</h3>
+	<footer>
+		Copyright &copy; Informatika Unjani
+	</footer>
+</body>
+</html>
