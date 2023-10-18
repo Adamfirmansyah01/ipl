@@ -1,3 +1,5 @@
+package srp;
+
 class Order {
     void calculateTotalSum() {
         /*...*/
